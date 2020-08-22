@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://oziz.ffos.hr/tsw2/kdjurdjevic/posudba#"
+xmlns:kd="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:isbd="http://iflastandards.info/ns/isbd/elements/"
+xmlns:dc="http://purl.org/dc/terms/"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#1 ">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#2">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#3">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-11</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#4">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#5">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-15</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#6">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-12</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#7">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-27</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#8">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-18</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#9">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#10">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-27</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#11">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#12">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_kamen_mudraca" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Znanje" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-30</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#13">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#14">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#15">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-11</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#16">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#17">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-15</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#18">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-12</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#19">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-27</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#20">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#21">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-21</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#22">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-27</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#23">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#24">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Harry_Potter_i_Odaja_tajni" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Algoritam" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#25">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#26">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#27">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-11</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#28">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#29">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-15</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#30">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-12</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#31">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-29</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#32">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#33">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-11</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#34">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-29</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#35">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-29</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#36">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Zatočenik_Azkabana" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Alfa" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#37">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#38">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#39">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-11</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#40">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#41">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-15</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#42">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-05-12</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#43">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-29</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#44">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#45">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-11</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#46">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-02</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#47">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-15</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#48">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Plameni_pehar" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Školska_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#49">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#50">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#51">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-11</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#52">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#53">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-15</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#54">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-05-10</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#55">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-30</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#56">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-21</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#57">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#58">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-10-04</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#59">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-15</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#60">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Red_feniksa" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Fraktura" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-24</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#61">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#62">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#63">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-02-11</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#64">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#65">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-17</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#66">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-10</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#67">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-30</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#68">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-14</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#69">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-08-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#70">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-10-04</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#71">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#72">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Princ_miješane_krvi" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Naklada_Ljevak" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-24</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#73">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#74">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#75">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-02-17</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#76">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#77">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-19</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#78">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-10</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#79">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#80">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-14</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#81">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#82">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-10-08</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#83">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#84">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Harry_Potter_i_Darovi_smrti" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Element" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#85">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#86">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#87">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-02-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#88">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#89">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-29</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#90">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-12</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#91">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-24</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#92">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-14</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#93">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#94">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-08</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#95">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#96">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Čudesne_zvijeri_i_gdje_ih_pronaći" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Mozaik_knjiga" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#97">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-23</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#98">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-05</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#99">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-02-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#100">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-31</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#101">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-15</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#102">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-12</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#103">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-06-27</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#104">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-14</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#105">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-09-25</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#106">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-27</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#107">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-20</vrijemePosudbe>
+</posudba>
+<posudba rdf:about="http://oziz.ffos.hr/tsw2/kdurdevic/posudba#108">
+
+	<kd:Knjiga rdf:resource="http://oziz.ffos.hr/djurdjevic/akdk-ontologija#Metloboj_kroz_stoljeća" />
+	<kd:Nakladnik rdf:resource="http://oziz.ffos.hr/kdjurdjevic/dk-ontologija#Biblioteka_Vjeverica" />
+
+	<dostupnost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dostupnost>
+	<kd:jeObjavljena rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</kd:jeObjavljena>
+	<kd:imaStranica rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</kd:imaStranica>
+	<br_posudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</br_posudbe>
+
+	<vrijemePosudbe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-12-30</vrijemePosudbe>
+</posudba></rdf:RDF>
